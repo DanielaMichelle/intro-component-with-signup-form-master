@@ -23,8 +23,8 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/DanielaMichelle/intro-component-with-signup-form-master
+- Live Site URL: https://danielamichelle.github.io/intro-component-with-signup-form-master/
 
 ### Built with
 
